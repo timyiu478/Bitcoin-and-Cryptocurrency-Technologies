@@ -1,11 +1,25 @@
-# Bitcoin-and-Cryptocurrency-Technologies
+# Bitcoin and Cryptocurrency Technologies
 
-The repository stores the textbook, programming assignments with my answers, and the key takeaways from the assignments of the [BitCoin and Cryptocurrency Technologies course from Princeton](https://bitcoinbook.cs.princeton.edu/).
+This repository contains resources, programming assignments, and key takeaways from the [Bitcoin and Cryptocurrency Technologies course by Princeton University](https://www.coursera.org/learn/cryptocurrency).
 
-Programming Assignments:
+## Contents
 
-- [Transaction Handler](./programming_assignments/assignment_1/)
-- [Consensus Algorithm from trust](./programming_assignments/assignment_2/)
-- [Blockchain](./programming_assignments/assignment_3/)
+- **Programming Assignments**: Explore hands-on exercises that delve into key concepts like transaction handling, consensus algorithms, and blockchain implementations.
+- **Key Takeaways**: Summarized learnings from the course to solidify understanding.
+- **Textbook**: Supplementary materials to deepen your knowledge.
 
-Key Takeaways: [here](keytakeaways.md)
+---
+
+## Programming Assignments
+
+| Assignment Number | Title                                | Description                                                              | Link                                                                 |
+|--------------------|--------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|
+| 1                  | Transaction Handler                 | Learn the basics of transaction validation and processing in a blockchain network. | [Transaction Handler](./programming_assignments/assignment_1/)      |
+| 2                  | Consensus Algorithm from Trust      | Understand how trust and consensus are built in distributed systems.     | [Consensus Algorithm](./programming_assignments/assignment_2/)      |
+| 3                  | Blockchain Implementation           | Build and analyze the core components of a blockchain.                   | [Blockchain](./programming_assignments/assignment_3/)               |
+
+---
+
+## Key Takeaways
+
+Key insights and concepts from the course are summarized [here](keytakeaways.md).
