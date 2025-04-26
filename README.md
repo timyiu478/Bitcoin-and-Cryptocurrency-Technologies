@@ -1,12 +1,12 @@
 # Bitcoin and Cryptocurrency Technologies
 
-This repository contains resources, programming assignments, and key takeaways from the [Bitcoin and Cryptocurrency Technologies course by Princeton University](https://www.coursera.org/learn/cryptocurrency).
+This repository contains resources, programming assignments, and key takeaways from the [Bitcoin and Cryptocurrency Technologies course by Princeton University](https://bitcoinbook.cs.princeton.edu/).
 
 ## Contents
 
 - **Programming Assignments**: Explore hands-on exercises that delve into key concepts like transaction handling, consensus algorithms, and blockchain implementations.
-- **Key Takeaways**: Summarized learnings from the course to solidify understanding.
 - **Textbook**: Supplementary materials to deepen your knowledge.
+- **Key Takeaways**: Summarized learnings from the course to solidify understanding.
 
 ---
 
